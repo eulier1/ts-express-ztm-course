@@ -17,3 +17,7 @@ Install [Node.js](https://nodejs.org/en/) or its Node version manager [nvm](http
 ```
 npm run start
 ```
+
+## First time?
+
+Run the command twice for a success launch.
