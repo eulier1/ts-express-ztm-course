@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/eulier1/ts-express-ztm-course/issues"
   },
-  "homepage": "https://github.com/eulier1/ts-express-ztm-course#readme"
+  "homepage": "https://github.com/eulier1/ts-express-ztm-course#readme",
+  "devDependencies": {
+    "concurrently": "^6.3.0",
+    "nodemon": "^2.0.14",
+    "typescript": "^4.4.4"
+  }
 }
