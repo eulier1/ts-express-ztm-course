@@ -4,7 +4,7 @@
   "description": "[ZTM Academy, Typescript Course](https://academy.zerotomastery.io/courses/1316943/lectures/30291512)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start:build": "npx tsc -w"
   },
   "repository": {
     "type": "git",
