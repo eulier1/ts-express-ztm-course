@@ -4,7 +4,8 @@
   "description": "[ZTM Academy, Typescript Course](https://academy.zerotomastery.io/courses/1316943/lectures/30291512)",
   "main": "index.js",
   "scripts": {
-    "start:build": "npx tsc -w"
+    "start:build": "npx tsc -w",
+    "start:run": "nodemon build/index.js"
   },
   "repository": {
     "type": "git",
